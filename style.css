@@ -1,0 +1,1598 @@
+.page1{
+    background-color: #DDDDDD;
+    max-width: 1940px;
+    width: 100%; 
+    height: 700px; 
+    flex-wrap: wrap;
+    
+}
+.roca{
+    font-size: 40px;  
+    padding-left: 40px;
+     font-family: 'Poppins'; 
+   
+    
+}
+.line-procent{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.zero-one{
+    margin-left: 1260px;
+    font-size: 158px;
+    margin-top: -50px;
+    font-family: 'Poppins';
+    position: absolute;
+} 
+.aboutme1{
+    
+    padding-left: 1250px;
+    font-size: 30px;
+    font-size: 43px;
+    color: #373737;
+    font-family: 'Poppins';
+    position: absolute; 
+}  
+.box2{
+    
+    margin-top: -50px;
+}
+.paragrap-1{
+    font-size: 49px;
+    font-family:'font/GlacialIndifference-Regular';
+    
+    
+}
+.icon-box1{
+    margin-left: 800px;
+    margin-top: 20px;
+    
+   }
+   .my-name{
+    margin-top: 20px;
+    font-size: 70px;
+    margin-bottom: 20px;
+    font-family: 'Glacial Indifference';
+}
+.paragrap-2{
+    font-size: 23px;
+    font-family:'font/GlacialIndifference-Regular';
+     
+     
+}
+ 
+   .heart{
+    margin-left: 95px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+   display: inline-block;
+   object-fit: cover;
+
+    
+} 
+
+
+
+.paragrap1{
+    font-size: 13px;
+    color: #B3B3B3;
+    margin-top: 9px;
+    margin-left: 40px;
+}
+.box{
+    margin-left: 40px;
+     padding-top: 50px;
+ }
+
+ .paragrap-box {
+    margin-left: 800px;
+    margin-top: 200px;
+    width:100%;
+    
+}
+
+.logo2{
+    width: 120px;
+    height: 120px;
+    background-color: #FAFAFA;
+}
+.project{
+    width: 300px;
+    height: 400px;
+}
+.project-box{
+    margin-top: -390px;
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+
+.page2{
+    flex-wrap: wrap;
+    max-width: 1920px;
+    width: 100%;
+    height: 600px;
+   
+}
+
+.aboutme{
+    margin-left: 1800px;
+    margin-top: 20px;
+    
+} 
+.box-container4{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.frame-box{
+    width: 50px;
+    height: 50px;
+    background-color: #F9F9F9;
+    margin: 10px;
+    transition: width 2s, height 2s;
+
+}
+.frame{
+    width: 15px;
+    height: 15px;
+    border: 3px solid black;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+
+.frame-box:hover {
+    width: 57px;
+    height: 57px;
+    background-color: #15263E;
+  }
+
+#light-grey1{
+    width: 300px;
+    height: 12px;
+}
+#grey1{
+    height: 12px;
+    width: 256px;
+}
+#light-grey2{
+    width: 300px; 
+    height: 12px;
+
+}
+#grey2{
+    height: 12px;
+    width: 194px;
+
+}
+#light-grey3{
+    width: 300px; 
+    height: 12px;
+
+}
+#grey3{
+    height: 12px;
+    width:150px;
+
+}
+#light-grey4{
+    width: 300px; height: 12px;
+
+}
+#grey4{
+    height: 12px;width: 76px
+
+}
+
+.logo{
+    margin: 21px;
+}
+.point{
+    color: blue;
+ margin-left: -10px; 
+  
+}
+ #line1{
+     margin-left: 1015px;
+     margin-top: 10px;    
+} 
+
+.satisfied{
+    margin-left: 1000px;
+    margin-top: 30px;
+    
+}
+ .about-me{
+    width: 200px;
+    height: 100px;
+    font-family: 'Mulish';
+    font-size: 15px;    
+    margin-left:100px;
+   
+} 
+.box4{
+    margin-left: 120px;
+    margin-top: 250px;
+   
+}
+ .hire-me{
+     color:white;
+    
+  
+} 
+.hireme-box{
+    margin-top: 30px;
+    margin-left: 190px;
+    background-color: red;
+   
+    width: 90px;
+    height: 40px;
+    padding-left: 25px;
+    
+    padding-top: 10px;
+    
+}
+.name-me{
+    font-size: 40px;
+    padding-bottom: 20px;
+    font-family: 'Glacial Indifference';
+}
+.i-know{
+    
+    margin-left: 1090px;
+    margin-top: -700px;
+   
+}
+.category{
+    padding-bottom: 10px;
+    font-family: 'Glacial Indifference';
+    font-size: 20px;
+}
+.statistic{
+    margin: 50px;
+}
+.percent{
+    color: red;
+    padding-left: 10px;
+    font-family: 'Glacial Indifference';
+    font-size: 20px;
+}
+.page3{
+    background-color: #131A36;
+    height: 190px;
+    width: 100%;
+    max-width: 1930px;
+    flex-wrap: wrap;
+    margin-top: 200px;
+}
+.imageme{
+    margin-left: 700px;
+    margin-top: -100px;
+}
+.circle1{
+    margin-left: 250px;
+    padding-top: 45px;
+    
+}
+.pone-number{
+    margin-left: 360px;
+    margin-top: -85px;
+    color: white; 
+}
+ .paragrap-margin{
+    margin: 5px;
+    font-family: 'Mulish';
+} 
+.title-margin{
+    margin-bottom: 20px;
+    font-family: 'Glacial Indifference';
+    font-size: 20px;
+}
+.phono-logo{
+    
+    padding-top: 40px;
+    padding-left: 38px;
+}
+
+.circle2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    
+    margin-top: -100px;
+    margin-left: 600px;
+}
+.user-addres{
+    
+    margin-left: 730px;
+    margin-top: -80px;
+    color:white;
+    
+    
+}
+.location-logo{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.circle3{
+    margin-left: 1000px;
+    margin-top: -100px;
+   
+
+}
+.email-addres{
+    margin-left: 1109px;
+    margin-top: -80px;
+    color: white;
+    
+
+}
+.email-logo{
+    padding-top: 40px;
+    padding-left: 38px;
+}
+
+
+ 
+
+
+
+.page4{
+    width: 100%;
+    max-width: 1930px;
+}
+
+
+.click{
+    border: 2px solid red;
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+    
+  
+}
+
+
+.button-box{
+    display: flex;
+    margin-left: 1000px;
+    margin-top: 180px;
+    transform: rotate(90deg);  
+}
+
+
+.svg2{
+    height: 170px;
+    width: 170px;
+
+}
+svg{
+    height: 100px;
+    width: 100px;
+  }
+  circle {
+    fill: transparent;
+    stroke: white;
+    stroke-width: 2;
+  }
+  .solid{
+    stroke-dasharray: none;
+  }
+  .dashed {
+    stroke-dasharray: 8, 8.5;
+  }
+  .dotted {
+    stroke-dasharray: 0.1, 12.5;
+    stroke-linecap: round;
+  }
+  .div6 {
+    height: 100px;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+  } 
+  
+  
+    .service{ 
+      background-color: #FAFAFA;
+      margin: 9px;
+      width: 365px;
+      height: 365px;
+      
+  }
+  .service-container1{
+      display: flex;
+      margin-left: 200px;
+      margin-top: 10px;
+      width: 100%;
+
+  }
+  .service-logo{
+      margin-top: 140px;
+      margin-left: 160px;
+  }
+  .service-container{
+      margin-top: 205px;
+  }
+  .light-grey{color:#000!important;background-color:#f1f1f1!important}
+  .grey{color:red!important;background-color:red!important}
+  .service-name{
+      margin-left: 120px;
+      margin-top: 20px;
+      font-size: 22px;
+      font-family: 'Glacial Indifference';
+  }
+     .background-image{
+       height: 570px; 
+      margin-top: 100px;
+      width: 100%;
+  }
+  .service-description{
+      font-size: 90px;
+      margin-top: 50px;
+      margin-left: 20px;
+      font-family: 'Roboto'; 
+  }
+  
+ 
+  .paragrap2{
+      margin-left: 200px;
+      margin-top: -300px;
+      color: white;
+      width: 500px;
+      font-size: 15px;
+       font-family: 'Roboto'; 
+  }
+  .circle4{
+      margin-left: 700px;
+      margin-top: -120px;
+  }
+  .circle5{
+    height: 80px;
+    width: 80px;
+    background-color: #B97679;
+    border-radius: 50%;
+    margin-left: 9px;
+    margin-top: 9px;
+    
+  }
+  .page5{
+      width: 100%;
+      margin-top: 100px;
+      
+  }
+  .page6{
+      margin-top: 100px;
+      width: 100%;
+      
+  }
+  .latest-project{
+      padding-left: 550px;
+      font-size: 70px; 
+      font-family: 'Poppins';
+      margin-top: 200px;
+      margin-bottom: 150px;
+
+  }
+  .list-box{
+      background-color: #15263E;
+      width: 200px;
+      height: 350px;
+      margin-left: 250px; 
+      padding-top: 40px;
+    
+  }
+  .list-name{
+      margin-left: 40px;
+      color: white;
+      margin: 20px;
+      font-family: 'Glacial Indifference';
+  } 
+   .square{
+       background-color: black; 
+       width: 300px;
+       height: 400px; 
+  }
+  .square1{
+      display: flex;
+      margin-left: 500px; 
+  }  
+  .comma{
+      
+      color: white;
+      font-size: 70px;
+      
+     
+  }
+  .comma-box{
+   
+    transform: rotate(181deg);
+   
+    margin-top: -100px;
+    margin-right: 610px;
+
+  }
+  .box-container{
+      margin-left: 870px;
+      margin-top: -90px;
+      
+  }
+  .Prophecy{
+      color: #DAAE19;
+      font-size: 14px;
+      margin-bottom: 10px;
+      font-family: 'Mulish';
+      margin-left:210px;
+  }
+  .Prophecy1{
+    color: red;
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-family: 'Roboto ';
+
+  }
+ 
+  .name{
+      font-size: 28px;
+      font-family: 'Glacial Indifference';
+      
+  }
+  .project-paragrap{
+      font-size: 23px;
+      font-family: 'Glacial Indifference';
+      margin-top: 30px;
+      margin-left: 45px;
+      color: white;
+      
+
+  }
+ .project-title{
+     font-size: 11px;
+     font-family: 'Mulish';
+     margin-top: 70px;
+     margin-left: 100px;
+     color: white;
+    
+ }
+  .news-event{
+      color: #2ED279;
+      font-size: 13px;
+      padding-left: 750px;
+     font-family: 'Glacial Indifference';
+   
+  }
+  .latest-article{
+      padding-left: 600px;
+      font-size: 70px;
+       margin-top: -14px;
+       font-family: 'Glacial Indifference';
+  }
+  
+  .box3{
+    margin-top: 200px;
+    margin-bottom: 100px;
+  }
+
+
+  .box5,.box10,.box11{
+      background-color:  #FAFAFA;
+      width: 510px;
+      height: 400px;
+      
+   }
+  .box6,.box9,.box12{
+      width: 90px;
+      height: 400px;
+      background-color: #15263E;
+     
+  }
+
+  .Description-company{
+      font-size: 16px;
+      font-family: 'Mulish';
+  }
+  .box7,.box8,.box13{
+      width: 500px;
+      height: 400px;
+      background-color: #E1E0DC;
+  } 
+  .box-container1{
+      display: flex;
+      padding-left: 418px;  
+  }
+  
+  .box-container2{
+      display: flex;
+      
+       
+
+  }
+  .box-container3{
+      display: flex;
+      padding-left: 418px;
+  }
+  .box8{
+    width: 600px;
+    height: 400px;
+      color: #E1E0DC;
+  }
+  .page7{
+      flex-wrap: wrap;
+      margin-top: 50px;
+      width: 100%;
+  }
+  .years-period{
+      color: red;
+       transform: rotate(90deg); 
+      font-size: 18px; 
+      margin-top: 200px;
+      font-family: 'Glacial Indifference';
+
+  }
+  .circle6{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 60px;
+
+    
+  }
+  .icon{
+      padding-left: 22px;
+      padding-top: 20px;
+  } 
+  .propesi1,.propesi2{
+     
+      padding-top: 15px;
+      padding-bottom: 20px;
+      font-size: 40px;
+      font-family: 'Glacial Indifference';
+
+  }
+  .compani1{
+      margin-top: 20px;
+      font-size: 14px;
+      color: #888888;
+      font-family: 'Mulish';
+  }
+.compani-box{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+    
+    font-family: 'Mulish';
+   
+}
+.news-event2{
+    color: green;
+    font-size: 13px;
+    padding-left: 750px;
+    
+}
+.page8{
+    margin-top: 150px;
+    width: 100%;
+}
+
+.logo-border{
+
+    width: 230px; 
+     height: 190px; 
+     border: 4px solid #E93656; 
+     display: none;
+     background-color: #15263E;
+}
+.rosa-team{
+    font-size: 70px;
+    padding-left: 650px;
+    font-family: 'Glacial Indifference';
+}
+.logo-box{
+    margin: 70px;
+}
+.logo-container{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.map-box{
+    margin-top: 100px;
+}
+.contact{
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    margin: 40px;
+}
+.contact1{
+ 
+     position: relative; 
+    text-align: center; 
+    margin-top: -600px;
+    color: white;
+    padding-bottom: 20px;
+}
+.contact-box{
+    display: flex;
+    margin: 50px;
+     margin-left: 250px;
+    margin-bottom: -20px;
+}
+.page9{
+    width: 100%;
+}
+.write-message{
+    width: 910px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    margin-left: 292px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-bottom: 70px;
+}
+.contact-us{
+    font-size: 45px;
+    padding-top: 40px;
+    font-family: 'Roboto ';
+
+}
+.paragrap3{
+   
+    padding-left: 590px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Roboto';
+}
+.send-message{
+   border: 2px solid red;
+   width: 100px;
+   height: 50px;
+   margin-left: 700px;
+   
+   
+}
+.footer-content{
+    margin-top: 50px;
+    width: 1920px;
+    height: 400px;
+    background-color: #282828;
+}
+.roco2{
+    color: white;
+    font-size: 55px;
+    margin-left: 600px;
+    padding-top: 100px;
+    font-family: 'Poppins';
+    
+
+}
+.point2{
+    color: red;
+    font-size: 45px;
+    
+    margin-top: 200px;
+}
+.icon-box{
+    display: flex;
+    margin: 10px;
+    margin-top: 90px;
+    margin-left: 580px;
+}
+.icon2{
+    margin: 10px;
+}
+.paragrap4{
+    margin-left: 400px;
+    margin-top: 100px;
+    color: #A5A5A5;
+    width: 600px;
+    font-size: 17px;
+    font-family: 'Roboto ';
+    
+}
+.roco-box{
+    padding-top: 50px;
+
+}
+.footer-box{
+    height: 50px;
+    width: 1920px;
+    background-color: black;
+    
+  
+}
+.paragrap26{
+    color: red;
+}
+.span-box{
+    padding-left: 500px;
+    padding-top: 20px;
+    color: #707070;
+}
+
+
+.slider{
+    max-width: 500px;
+    margin-left: 550px;
+    margin-top: -290px;
+    
+}
+.company-name{
+    font-size: 16px;
+    font-family: 'Poppins';
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+
+}
+.company-Description{
+    font-size: 13;
+    font-family: 'Roboto';
+    padding-top: 10px;
+    color: white;
+}
+.slider .item img {
+    object-fit: cover;
+    width: 100%;
+    height: 700px;
+}
+
+.slider .item {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {
+        opacity: 0.4
+    }
+    to {
+        opacity: 1
+    }
+}
+.service-description{
+    display: none;
+   
+    font-size: 12px;
+    margin-top: 2px;
+    margin-left: 10px;
+     font-family: 'Roboto'; 
+    
+    
+}
+
+.project-desctiption{
+    width: 300px;
+    height: 400px;
+    background-color: black;
+
+}
+.project-desctiption h3{
+    color: white;
+    margin-left: 95px;
+    margin-top: 150px;
+}
+.project-desctiption p{
+    color: white;
+    margin-left: 70px;
+    margin-top: 100px;
+    font-size: 24px;
+}
+
+.square div {
+    display: none;
+}
+.hide{
+    display: none;
+}
+.PSD-Template{
+    font-size: 15px;
+    color:#A0A8B7 ;
+    font-family: 'Mulish';
+   padding-left: 500px;
+   padding-top: 20px;
+
+}
+.rosa{
+    color: white;
+    font-size: 15px;
+    font-family: 'Mulish';
+}
+@media (max-width: 1200px) {
+    .icon-box1 {
+        margin-left: auto;
+       
+    }
+    .line-procent {
+        margin-left: -1000px;
+} 
+.paragrap-1{
+    margin-left: -700px; 
+    font-size: 20px;
+    margin-top: -90px;
+    
+    
+}
+.satisfied{
+     margin-left: 1010px;
+    margin-top: 30px;
+        
+ }
+ .my-name{
+     margin-left: -700px;
+     font-size: 25px;
+     
+ }
+    
+.paragrap-2{
+      margin-left: -700px;
+     font-size: 15px;
+
+    }
+    
+.box2{
+     margin-left: -1000px;
+     font-size: 20px;
+
+ }
+.zero-one{
+     font-size: 50px;
+     margin-top: -10px;
+ }
+.aboutme1{
+     font-size: 20px;
+ }
+ .box{
+     margin-left: 10px;
+
+ }
+
+    
+
+
+}  
+
+
+
+ @media (max-width: 1200px) {
+ .statistic {
+     margin: 10px;
+         
+        
+
+       
+} 
+.category{
+      padding-bottom: 5px;
+     font-family: 'Glacial Indifference';
+     font-size: 15px;
+        
+ }
+ .percent{
+        
+     padding-left: 5px;
+     font-family: 'Glacial Indifference';
+     font-size: 15px;
+      
+}
+.box-container4{
+      display: flex;
+      margin-left: auto;
+     margin-top: auto;
+ }
+ .frame-box{
+    width: 20px;
+     height: 20px;
+     background-color: #F9F9F9;
+     margin: 5px;
+    }
+.frame{
+     width: 5px;
+     height: 5px;
+     margin-top: auto;
+     margin-left: auto;
+        
+}
+.slider{
+     max-width: 350px;
+     height: 100px;
+     margin-left: auto;
+     margin-top: auto;
+     flex-wrap: wrap;
+        
+    }
+ .name-me{
+     font-size: 20px;
+     padding-bottom: -30px;
+     font-family: 'Glacial Indifference';
+     padding-left:150px;
+  }
+.box4{
+     margin-left: auto;
+     margin-top: 250px;
+       
+ }
+.about-me{
+     width: auto;
+    height: auto;
+     font-family: 'Mulish';
+     font-size: 15px;    
+       
+} 
+.i-know{
+    
+    margin-left: auto;
+    margin-top: -505px;
+       
+}
+    
+.frame-box:hover {
+    width: 20px;
+    height: 20px;
+    background-color: #15263E;
+  }
+ 
+.item{
+    width: auto;
+    margin-left: auto;
+    
+}
+}
+@media (max-width: 1200px) {
+.page3{
+     background-color: #131A36;
+     height: 211px;
+     width: auto;
+     height: 140px;
+     flex-wrap: wrap;
+     margin-top: 360px;
+     overflow-y: hidden;
+}
+    
+    
+    
+ svg{
+    height: 70px;
+    width: 70px;
+}
+.circle1{
+    margin-left: auto;
+     padding-top: 10px;
+        
+        
+}
+   
+ .circle2{
+     margin-left: 100px;
+     margin-top: -120px;
+      width: 70px;
+      height: 70px;
+ }
+.circle3{
+     margin-left: 230px;
+     margin-top: -100px;
+        
+} 
+   
+    
+      
+ .paragrap-margin{
+     margin: 2px;
+    font-family: 'Mulish';
+    font-size: 10px;
+} 
+.title-margin{
+     margin-bottom: 5px;
+     font-family: 'Glacial Indifference';
+     font-size: 10px
+        
+}
+.user-addres{
+    
+     margin-left: 80px;
+     margin-top: -1px;
+     color:white;
+        
+        
+ }
+.email-addres{
+     margin-left: 220px;
+     margin-top: -1px;
+     color: white;
+        
+    
+}
+.pone-number{
+     margin-left: auto;
+     margin-top: 10px;
+        
+ }
+.location-logo{
+     padding-left: 20px;
+    padding-top: 20px;
+ }
+        
+
+       
+    } 
+
+   @media (max-width: 1200px) {
+ .service{ 
+     background-color: #FAFAFA;
+     margin: 2px;
+     width: 100%;
+     height: 200px;
+            
+ }
+.service-container1{
+    display: flex;
+     margin-left: auto;
+     margin-top: 5px;
+     width: 100%;
+      
+  } 
+ .service-logo{
+     margin-top: 10px;
+     margin-left: 10px;
+}
+ .service-container{
+     margin-top: 205px;
+ } 
+.service-name{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 15px; 
+    font-family: 'Glacial Indifference';
+}
+         
+ }
+
+@media (max-width: 1200px) {
+   .list-box{
+    background-color: #15263E;
+     width: auto;
+    max-width: 370px;
+    height: 100px;
+    margin-left: 20px;
+    padding-top: 2px;
+    display: flex;
+    flex-wrap: wrap;
+                
+               
+}
+.list-name{
+    margin-left: 10px;
+    margin: 5px;
+    font-size: 20px; 
+  } 
+ .square1{
+   display: flex;
+   margin-left: auto; 
+                 
+   }  
+  .square{
+    background-color: black; 
+    width: 120px;
+    height: 200px; 
+                
+} 
+.project{
+    width: 120px;
+    height: 200px;
+  }
+  .project-box{
+     margin-top: 50px;
+           
+ }
+        
+            
+ }  
+        
+ 
+       
+
+            
+  @media (max-width: 1200px) {
+         
+    .box5,.box10,.box11{
+         background-color:  #FAFAFA;
+        width: auto;
+         height: 400px;
+        max-width: 200px;
+    
+ } 
+ .box6,.box9,.box12{
+    width: 170px;
+    height: 400px;
+    
+   
+} 
+ .box7,.box8,.box13{
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+    
+}   
+.compani1{
+    margin-top: 10px;
+    font-size: 13px;
+    color: #888888;
+    font-family: 'Mulish';
+}
+.propesi1{
+     
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Glacial Indifference';
+
+}
+.Description-company{
+    font-size: 15px;
+    font-family: 'Mulish';
+}
+.box-container1{
+    display: flex;
+    padding-left: 30px;  
+}
+.circle6{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 20px;
+
+    
+  }
+  .box-container3{
+    display: flex;
+    padding-left: 30px;
+}
+.years-period{
+    color: red;
+     transform: rotate(90deg); 
+    font-size: 10px; 
+     margin-top: 200px; 
+    font-family: 'Glacial Indifference';
+
+}
+.read-more{
+    color: black;
+    font-size: 15px;
+ 
+}
+
+
+ }
+
+           
+ @media (max-width: 1200px) {
+     
+ .logo-container{
+    display: flex;
+    margin-top: 70px;
+    margin-left: auto;
+}  
+
+.company-Description{
+    font-size: 10px;
+    font-family: 'Roboto';
+    padding-top: 2px;
+    color: white;
+} 
+.company-name{
+    font-size: 10px;
+    font-family: 'Poppins';
+    padding-left: 10px;
+    padding-top: 5px;
+    color: white;
+
+}
+.logo-border{
+
+     width: 70px; 
+     height: 100px; 
+     border: 4px solid #E93656; 
+     display: none;
+     background-color: #15263E;
+}
+.logo2{
+    width: 60px;
+    height: 60px;
+    background-color: #FAFAFA;
+}
+.logo-box{
+    margin: 4px;
+}
+.latest-project{
+    padding-left: 60px;
+    margin-top: 290px;
+    margin-bottom: 50px;
+   font-size: 30px; 
+   font-family: 'Poppins';
+}
+
+
+    
+   }      
+ 
+ /* page5 */
+
+ @media (max-width: 1200px) {
+    .page5{
+        width: 100%;
+        margin-top: 100px;
+        
+        
+    }   
+    .background-image{
+       height: 300px; 
+       margin-top: 100px;
+       width: 100%;
+   }
+   .paragrap2{
+        margin-left: 5px;
+         margin-top: -140px;
+         color: white;
+         width: 330px;
+        font-size: 15px;
+         font-family: 'Roboto'; 
+}
+.circle4{
+    margin-left: 20px;
+    margin-top: -200px;
+}
+.Prophecy1{
+    color: red;
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-family: 'Roboto ';
+
+  }
+  .box-container{
+    margin-left: 130px;
+    margin-top: -90px;
+    
+}
+.name{
+    font-size: 20px;
+    font-family: 'Glacial Indifference';
+    
+}
+.svg2{
+    height: 110px;
+    width: 110px;
+
+}
+.button-box{
+    display: flex;
+    margin-left: 270px;
+    margin-top: -90px;
+    transform: rotate(90deg);  
+}
+.click{
+    border: 2px solid red;
+    width: 7px;
+    height: 7px;
+    margin: 5px;
+    
+  
+}
+.page9{
+    width: 100%;
+    height: 50px;
+}
+.map{
+    height: 400px;
+    width: 100%;
+}
+.contact-box{
+    display: flex;
+    margin: 50px;
+     margin-left: 10px;
+     margin-top: 50px;
+}
+.contact{
+    width: 90px;
+    height: 20px;
+    background-color: white;
+    position: relative;
+    margin: 5px;
+}
+.write-message{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    margin-left: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+    margin-top: -40px;
+} 
+.contact-us{
+    font-size: 20px;
+    
+    
+    font-family: 'Roboto ';
+
+}
+.contact1{
+ 
+    position: relative; 
+   text-align: center; 
+   margin-top: -380px;
+   color: white;
+   padding-bottom: 20px;
+}
+.paragrap3{
+   
+    padding-left: 5px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto';
+    width: 300px;
+}
+.send-message{
+    border: 2px solid red;
+    width: 90px;
+    height: 20px;
+    margin-left: 90px;
+    
+    
+ }
+ .message-box{
+     margin-top:-40px;
+ }
+ .roco2{
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    padding-top: 900px;
+    font-family: 'Poppins';
+    
+
+}
+.roco-box{
+    padding-top: 280px;
+
+}
+.paragrap4{
+    margin-left: 2px;
+    margin-top: 10px;
+    color: #A5A5A5;
+    width: 350px;
+    font-size: 10px;
+    font-family: 'Roboto ';
+    
+}
+.icon-box{
+    display: flex;
+    margin: 10px;
+    margin-top: 2px;
+    margin-left: 50px;
+}
+.PSD-Template{
+    font-size: 10px;
+    color:#A0A8B7 ;
+    font-family: 'Mulish';
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 344px;
+
+}
+.rosa-team{
+    font-size: 40px;
+    padding-left: 50px;
+    font-family: 'Glacial Indifference';
+}
+.news-event{
+    color: #2ED279;
+    font-size: 13px;
+    padding-left: 100px;
+   font-family: 'Glacial Indifference';
+ 
+}
+.project-title{
+    font-size: 10px;
+    font-family: 'Mulish';
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+   
+}
+.project-parapgrap{
+    font-size: 4px;
+    font-family: 'Glacial Indifference';
+    margin-top: 30px;
+    margin-left: 2px;
+    color: white;
+    
+
+}
+.project-desctiption{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+
+}
+.project-desctiption h3{
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.heart{
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+   display: inline-block;
+   object-fit: cover;
+
+    
+}
+.project-paragrap{
+    font-size: 10px;
+     margin-top: 30px;
+    margin-left: 12px;
+  
+    
+
+}
+.footer-content{
+    margin-top: 50px;
+    width: 100%;
+    height: 400px;
+    background-color: #282828;
+}
+.footer-box{
+    height: 50px;
+    max-width: 370px;
+    width: 100%;
+    background-color: black;
+    
+  
+}
+footer{
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
+}
+.latest-article{
+     margin-left: -590px; 
+    font-size: 40px;
+    margin-top:-5px;
+    margin-bottom:10px;
+ } 
+ .box3{
+    margin-left: 10px;
+ }
+    
+
+
+ 
+}  

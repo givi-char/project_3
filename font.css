@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('font/Poppins-ExtraBold.eot');
+    src: url('font/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('font/Poppins-ExtraBold.woff2') format('woff2'),
+        url('font/Poppins-ExtraBold.woff') format('woff'),
+        url('font/Poppins-ExtraBold.ttf') format('truetype'),
+        url('font/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Glacial Indifference';
+    src: url('font/GlacialIndifference-Bold.eot');
+    src: url('font/GlacialIndifference-Bold.eot?#iefix') format('embedded-opentype'),
+        url('font/GlacialIndifference-Bold.woff2') format('woff2'),
+        url('font/GlacialIndifference-Bold.woff') format('woff'),
+        url('font/GlacialIndifference-Bold.ttf') format('truetype'),
+        url('font/GlacialIndifference-Bold.svg#GlacialIndifference-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+ @font-face {
+    font-family:'font/GlacialIndifference-Regular';
+    src: url('font/GlacialIndifference-Regular.eot');
+    src: url('font/GlacialIndifference-Regular.eot?#iefix') format('embedded-opentype'),
+        url('font/GlacialIndifference-Regular.woff2') format('woff2'),
+        url('font/GlacialIndifference-Regular.woff') format('woff'),
+        url('font/GlacialIndifference-Regular.ttf') format('truetype'),
+        url('font/GlacialIndifference-Regular.svg#GlacialIndifference-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+ 
+
+
+@font-face {
+    font-family: 'Mulish';
+    src: url('font/Mulish-Regular.eot');
+    src: url('font/Mulish-Regular.eot?#iefix') format('embedded-opentype'),
+        url('font/Mulish-Regular.woff2') format('woff2'),
+        url('font/Mulish-Regular.woff') format('woff'),
+        url('font/Mulish-Regular.ttf') format('truetype'),
+        url('font/Mulish-Regular.svg#Mulish-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('font/Roboto-Light.eot');
+    src: url('Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('font/Roboto-Light.woff2') format('woff2'),
+        url('font/Roboto-Light.woff') format('woff'),
+        url('font/Roboto-Light.ttf') format('truetype'),
+        url('font/Roboto-Light.svg#Roboto-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto ';
+    src: url('font/Roboto-BlackItalic.eot');
+    src: url('font/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('font/Roboto-BlackItalic.woff2') format('woff2'),
+        url('font/Roboto-BlackItalic.woff') format('woff'),
+        url('font/Roboto-BlackItalic.ttf') format('truetype'),
+        url('font/Roboto-BlackItalic.svg#Roboto-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
